@@ -1,4 +1,4 @@
-# digital_healthcare
+# decentraCARE
 electronic health records on blockchain
 
 #### demo: http://decentracare.herokuapp.com/
