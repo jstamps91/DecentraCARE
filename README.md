@@ -1,7 +1,7 @@
 # digital_healthcare
 electronic health records on blockchain
 
-#### demo: http://cryptycare.herokuapp.com/
+#### demo: http://decentracare.herokuapp.com/
 ##### Note: Demo url to work you need to have metamask extension installed in your browser and to buy fake tickets you need to have fake ethers from rinkeby faceut.
 ##### Optimized contract can be found in contracts/optimized_healthCare.sol
 
